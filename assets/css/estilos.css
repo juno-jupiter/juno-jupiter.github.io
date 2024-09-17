@@ -1,0 +1,12 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+/* Mis trabajos */
+
+.card-img-top {
+  height: 320px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
